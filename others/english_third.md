@@ -1,8 +1,6 @@
 #  the abilities that all engineering students should have
 ## before
 I'm glad to be here.The point I'm trying to make is that  the abilities that all engineering students should have.
-- Along with the construction of universities and the development of modern society, engineering majors are gradually developing and growing.
-- Meanwhile,what are the abilities that all engineering students should have?Of course, this is a need for the country, society, universities and students to face the issue of The Times!
 ## ability to think independently
 First of all,in my opinion,the ability to think independently is necessary.
 - You need to keep thinking about what you really want  as you explore.Otherwise,One day you will be replaced by a machine.
