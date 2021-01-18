@@ -1,0 +1,7 @@
+# Talk about the strategies to get yourself motivated
++  Hello everyone，the topic of my speech is the strategies to get myself motivated.
++ - First of all, if I feel that I am not motivated to do something, I will  consider whether I am too tired, so I will take a while to rest. Read a book or go for a walk outside. These are good ways to relax. After you relax completely, you will often be full of motivation again.
++ - What's more, every few months I spend a little time thinking about my past, present and future, so as to set some goals, including short-term goals and long-term goals. For myself, the long-term goal is to let me know where to go, and the short-term goal is to let me gradually improve myself in the sense of accomplishment, so that I can always be full of motivation.
++ - Last but not least,grasp your emotions. When a person is happy, wonderful changes occur in the body, thereby gaining bursts of new motivation and strength. Therefore, we should find out our own emotional upswing period to continuously motivate ourselves.
++ All in all, the above are some good ways to make ourselves full of motivation. If you feel that you are not fighting right now, why not try it?
+## Thank you for listening.
