@@ -1,0 +1,7 @@
+Thoughts on Steve Job's speech
+In the summer of 2005,Jobs was invited to speak at Stanford University's graduation ceremony.
+In this speech,he spoke affectionately to three stories about himself.
+First of all,his topic is about how to connect the dots that took place in life.Whose youth is not confusing?Jobs left the university and learned something such as designing ,drawing and so on.Secondly,it's about love and loss.When Jobs was at the peak of his career,he was fired from Apple,the company he founded.Before long,he founded the NEXT and Pixar.Eventually,he returned to Apple.During this time,he found his true love——his wife.Lastly,he talked about the death.
+"If you live each days if it was your last,someday you will most certainly be right."
+From Job's speech,we can find he is such a great man.Like most people,Jobs had a passion that is almost impossible to achieve.But not like most people,it's not an impulse.On the contrary,it was his delicate decision.Meanwhile,there are many experiences in one's long life,but some seemingly worthless things can change one's life.For the second view,we should think of danger even in times of peace.What's more,at the proper time,it is necessary to have some setbacks.
+"What dose not kill me,makes me stronger."Last,death is the end of everyone,but to live is to change the world.Being towards the death,we could change the world.

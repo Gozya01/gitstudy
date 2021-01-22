@@ -1,0 +1,6 @@
+Thought about the English class
+How time flies!Over the course of a semester,having the opportunity to attend this course,I benefited a lot.
+First of all,after the course began, let me feel lucky: this course content will be so wonderful!
+In particular, Ms. Qu's class gave me a new perspective, which provided vivid cases, interesting design of multimedia course ware, so that we students feel fresh and fresh, appreciate the theory and practice of the close combination of real cases.
+Secondly,in the process of training, I learned a lot of English words to read a lot of simple articles, and understand the general meaning, from which I realized a lot of fun.If I study for an hour or half an hour every day, and use this time to practice speaking or listening, the effect will be obvious in the long run. It will certainly be helpful to improve my ability to communicate with others.
+Last but not least,looking back on the study of these days, I took notes enthusiastically, did the homework every day and reviewed carefully after class with great pleasure. I am lucky to feel that I am growing up.
