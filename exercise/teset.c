@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 #define MAXN 10
 typedef float ElementType;
 
