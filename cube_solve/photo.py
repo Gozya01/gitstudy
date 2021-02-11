@@ -6,7 +6,7 @@ import random
 
 #first
 #彩色图转灰度图
-imgobj = cv2.imread('E:\opencv_cube\MobileFile\IMG_20210210_175828.jpg')
+imgobj = cv2.imread('E:\gitstudy\gitstudy\cube_solve\\test_photo\IMG_20210211_161807.jpg')
 gray = cv2.cvtColor(imgobj, cv2.COLOR_BGR2GRAY)
 #cv2.imwrite("2.jpg", gray)
 
@@ -40,7 +40,7 @@ def Check(a):
     h=a[0]
     s=a[1]
     v=a[2]
-    if 0<=s<=40 and 180<=v<=255:
+    if 0<=s<=40 and 150<=v<=255:
         return 0
         return 'w'
     if ((0<=h<=7) or (156<=h<=180)) and 43<=s<=255 and 46<=v<=255:
@@ -120,7 +120,7 @@ lst=[]
 for i in range(0,3):
     for j in range(0,3):
        b=imgobj[int(sy+i*yd):int(sy+(i+1)*yd),int(sx+j*xd):int(sx+(j+1)*xd)]
-       #cv2.imwrite(str(8+i*3+j)+'.jpg',b)
+       cv2.imwrite(str(8+i*3+j)+'.jpg',b)
        f=Judge(b)
        lst.append(f)
 print(lst)
